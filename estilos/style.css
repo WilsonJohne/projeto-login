@@ -28,6 +28,7 @@ main{
     background-repeat: no-repeat;
 }
 h1{
+    padding-top: 10px;
     text-align: center;
 }
 form{
@@ -63,7 +64,7 @@ form p{
 }
 .botao:hover{
     background-color: rgb(255, 255, 255);
-    color: orange;
-    border: 1px solid orange;
+    color: rgb(88, 58, 0);
+    border: 1px solid rgb(88, 58, 0);
     cursor: pointer;
 }
