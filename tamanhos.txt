@@ -1,0 +1,5 @@
+pquenas telas: ate 600px
+Celular: de 600px ate 768px
+tablet: 769px ate 992px
+pc: 993px ate 1200px
+grandes telas: acima de 1200px
