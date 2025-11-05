@@ -1,5 +1,36 @@
-@media screen and (min-width: 769px) {
-    #login{
-        
+@media screen and (min-width: 769px) and (max-width: 992px) {
+    section#login{
+        width: 90vw;
+       
+    }
+
+    section#login > div#foto{
+        float: left;
+        width: 30%;
+        height: 100%;
+    }
+    #formulario{
+        float: right;
+        width: 70%;
+    }
+    main{
+        background-image: ;
+    }
+}
+
+@media screen and (min-width: 993px) {
+     section#login{
+        width: 900px;
+       
+    }
+
+    section#login > div#foto{
+        float: left;
+        width: 50%;
+        height: 100%;
+    }
+    #formulario{
+        float: right;
+        width: 50%;
     }
 }
