@@ -43,7 +43,10 @@ section#login{
 #formulario{
     display: block;
     padding: 5px;
-    text-align: center;
+
+}
+.material-symbols-outlined{
+    transform: translateY(9px);
 }
 .inputs{
     background-color: rgb(223, 145, 0);
@@ -53,7 +56,16 @@ section#login{
     border-radius: 5px;
 }
 .info{
+    padding: 5px;
+    border-radius: 3px;
+}
+#senha{
     text-align: center;
+    transform: translateY(0px);
+}
+#email{
+    text-align: center;
+    transform: translateY(-10px);
 }
 input{
     border: 0px solid black;
