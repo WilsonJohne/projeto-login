@@ -78,7 +78,7 @@ input{
     background-color: orange;
     transition: background-color .3s, border .3s;
     border-radius: 5px;
-
+    display: block;
 }
 .botao:hover{
     border: 3px solid orange;

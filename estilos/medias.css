@@ -16,6 +16,18 @@
     main{
         background-image: linear-gradient(to right,  orange, rgba(0, 0, 0, 0.185));
     }
+    .info{
+        width: 400px;
+    }
+    #formulario{
+        margin-top: 125px;
+    }
+    h1{
+        text-align: center;
+    }
+    p{
+        text-align: justify;
+    }
 }
 
 @media screen and (min-width: 993px) {
@@ -35,5 +47,17 @@
     }
     main{
         background-image: linear-gradient(to right,  orange, rgba(0, 0, 0, 0.185));
+    }
+    .info{
+        width: 350px;
+    }
+    #formulario{
+        margin-top: 125px;
+    }
+    h1{
+        text-align: center;
+    }
+    p{
+        text-align: justify;
     }
 }
