@@ -14,7 +14,7 @@
         width: 70%;
     }
     main{
-        background-image: ;
+        background-image: linear-gradient(to right,  orange, rgba(0, 0, 0, 0.185));
     }
 }
 
@@ -32,5 +32,8 @@
     #formulario{
         float: right;
         width: 50%;
+    }
+    main{
+        background-image: linear-gradient(to right,  orange, rgba(0, 0, 0, 0.185));
     }
 }
